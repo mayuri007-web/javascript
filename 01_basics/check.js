@@ -1,2 +1,2 @@
-const checking = "test";
-console.log(checking);
+const checkinggg = "test";
+console.log(checkinggg);
